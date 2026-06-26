@@ -84,7 +84,7 @@ mysql-connector-python
 jupyter
 
 👨‍💻 Author
-Aadrsh Gurjar
-infoaadrshg@gmail.com
+Anshul Baraskar
+anshulbaraskar01gmail.com
 
 
